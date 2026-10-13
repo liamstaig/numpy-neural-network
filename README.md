@@ -4,6 +4,6 @@ This project was an opportunity to explore the mathematical foundations of machi
 ## Implementations of the network:
 ### XOR
 This is primarily a diagnostic task to ensure the nonlinearity of the network. It is, after all, not possible to construct an XOR gate with a linear function (when the network was dysfunctional, it uniformly predicted 50% chance of the output of the XOR gate being 1 or 0). 
-![XOR comparison]()
+![XOR comparison](XOR_comparison.png)
 
 ### House Price Prediction
