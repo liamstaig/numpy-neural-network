@@ -1,5 +1,5 @@
 # Numpy Neural Network
-This project was an opportunity to explore the mathematical foundations of machine learning. Everything from creating the architecture of a neural network, to implementing the multidimensional differential calculus required for backpropagation, gave me a deeper understanding of how machine learning happens at a fundamental level. So far, my experience with this project has enabled me to have deep, engaged conversations with my peers about machine intelligence; as I have now more strongly intuited the innerworkings of a neural network after engaging with this practical experiment.
+This project was an opportunity to explore the mathematical foundations of machine learning. Everything from creating the architecture of a neural network, to implementing the multidimensional differential calculus required for backpropagation, gave me a deeper understanding of how machine learning happens at a fundamental level. So far, my experience with this project has enabled me to have engaged conversations with my peers about machine intelligence; as I have now more strongly intuited the innerworkings of a neural network after engaging with this practical experiment.
 
 ## Implementations of the network:
 ### XOR
